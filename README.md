@@ -21,8 +21,8 @@ This was a fun little project!
 ### To use
 ```
 pip install -r requirements.txt
-   # Navigate to file directory
-   python solveWordPuzzle.py characterString <OptionalWordLength> <OptionalCharStartsWith> <OptionalCharIncludedString>
+# Navigate to file directory
+python solveWordPuzzle.py characterString <OptionalWordLength> <OptionalCharStartsWith> <OptionalCharIncludedString>
 
 ```
 
